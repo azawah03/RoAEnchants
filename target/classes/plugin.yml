@@ -1,0 +1,13 @@
+name: RoAEnchants
+version: '1.20.1'
+main: com.learning.roaenchants.RoAEnchants
+api-version: '1.20'
+commands:
+  enchants:
+    usage: /enchants
+    description: GUI showing all the custom enchantments.
+    aliases:
+      - roaes
+  roae:
+    usage: /roae
+    description: Show the help menu for ROA Custom Enchants!

@@ -1,0 +1,16 @@
+com\learning\roaenchants\TabCompleter\ROAETab.class
+com\learning\roaenchants\Commands\ROAECommand.class
+com\learning\roaenchants\Enchantments\Unbreakable.class
+com\learning\roaenchants\Enchantments\Unplaceable.class
+com\learning\roaenchants\Commands\EnchantCommand.class
+com\learning\roaenchants\Listeners\ArmorEquip\ArmorEquipEvent$EquipMethod.class
+com\learning\roaenchants\RoAEnchants.class
+com\learning\roaenchants\Listeners\AnvilListener.class
+com\learning\roaenchants\Listeners\MenuListener.class
+com\learning\roaenchants\Enchantments\DoubleJump.class
+com\learning\roaenchants\Listeners\ArmorEquip\DispenserArmorListener.class
+com\learning\roaenchants\RoAEnchants$1.class
+com\learning\roaenchants\Enchantments\DoubleJump$1.class
+com\learning\roaenchants\Listeners\ArmorEquip\ArmorEquipEvent.class
+com\learning\roaenchants\Listeners\ArmorEquip\ArmorListener.class
+com\learning\roaenchants\Listeners\ArmorEquip\ArmorType.class
